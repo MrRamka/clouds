@@ -1,0 +1,6 @@
+.idea
+keys.ini
+.env
+
+# Project exclude paths
+/venv/
