@@ -114,5 +114,6 @@ class BotoHelper:
                 self.print_objects(albums_arr)
         return albums_arr
 
-boto = BotoHelper()
 
+boto = BotoHelper()
+boto.get_console_albums()
